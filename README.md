@@ -2,6 +2,8 @@
 
 A Python-based geospatial pipeline that evaluates the **attribute completeness** of OpenStreetMap road networks for any city and visualizes the results as an interactive quality map.
 
+![Dashboard Preview](img/img.png)
+
 ---
 
 ## Motivation
